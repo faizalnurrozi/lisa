@@ -1,0 +1,6 @@
+__ci_last_regenerate|i:1530717305;loginData|a:5:{s:10:"StatusUser";s:5:"ADMIN";s:10:"IdKaryawan";s:10:"1461505163";s:12:"namaKaryawan";s:15:"Faizal Nur Rozi";s:12:"project_name";s:18:"SI Job Description";s:9:"copyright";s:10:"&copy;2018";}msgbox|s:242:"
+					<div class="alert alert-block alert-success">
+						<button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button>
+						Semua perangkat berhasil di akumulasi dan dianalisis
+					</div>
+					";__ci_vars|a:1:{s:6:"msgbox";s:3:"old";}
